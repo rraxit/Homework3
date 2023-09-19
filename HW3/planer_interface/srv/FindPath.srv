@@ -1,0 +1,5 @@
+string planner
+string start
+string destination
+---
+geometry_msgs/Point[] path
